@@ -1,0 +1,1 @@
+This project was implemented as part of the course of Yuri Bura. The goal was to get familiar with the capabilities of React
